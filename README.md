@@ -17,8 +17,10 @@ seperti yang terlihat pada gambar berikut:
 ![img](../screenshoot/img_002.png)  
 
 3. Mengimplementasikan Intruksi push, pull, stash dan merge  
-push adalah perintah mendorong perubahan ke repositori github setelah melakukan commit.
+>push adalah perintah mendorong perubahan ke repositori github setelah melakukan commit.
 ```Bash
 git push origin <branch-name>
 ```
 ilustrasinya sebagai berikut  
+![img](../screenshoot/img_003.png)  
+>stash
